@@ -1,6 +1,6 @@
 ```
 
 brew install grep
-grep -R "<text>" <dir>
+grep -R "weather" projects * > match.txt
 
 ```
